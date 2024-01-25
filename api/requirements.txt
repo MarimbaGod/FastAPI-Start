@@ -1,3 +1,7 @@
 fastapi[all]==0.78.0
 uvicorn[standard]==0.17.6
 pytest
+# psycopg[binary,pool]
+# jwtdown-fastapi==0.5.0
+# requests==2.26.0
+# python-dotenv==1.0.0
